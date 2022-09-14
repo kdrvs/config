@@ -42,7 +42,9 @@
 ```
 
 Результат:
+
 ![1_Запрос](https://user-images.githubusercontent.com/36735568/190198246-ecff6ad6-c239-4a0b-9536-61197803af26.png)
 
 Список продаж:
+
 ![1_Продажи](https://user-images.githubusercontent.com/36735568/190198353-b26394a7-293d-4e70-adf2-c897ae77ea3c.png)
