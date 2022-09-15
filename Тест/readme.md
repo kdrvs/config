@@ -110,7 +110,7 @@
 КонецФункции
 
 ```
-Результат;
+Результат:
 
 ![3proc](https://user-images.githubusercontent.com/36735568/190375524-22b38df9-8880-46d0-8e99-9ac49ef7e358.png)
 
