@@ -243,7 +243,7 @@
 
 Пример
 
-![5test](https://user-images.githubusercontent.com/36735568/192326141-10394956-0613-48f4-8f65-94266195262d.png)
+![5test](https://user-images.githubusercontent.com/36735568/192327046-b739d7e3-b182-48df-95bd-1a89b5761b28.png)
 
 Результат:
 
